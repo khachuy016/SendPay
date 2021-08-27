@@ -1,0 +1,190 @@
+@charset "utf-8";
+@import url('https://fonts.googleapis.com/css2?family=Nunito:wght@200;300;400;600;700&display=swap');
+/* CSS Document */
+body{
+	font-family: 'Nunito', sans-serif;
+	color: #020715;
+}
+#wrapper{
+	width: 1170px;
+	margin: 0 auto;
+/*	background: #f2f2f2;*/
+}
+.logo img{
+	height: 60px;
+}
+.nav{
+	height: 100%;
+	display: flex;
+	align-items: center;
+	justify-content: flex-end;
+}
+.nav ul{
+	list-style: none;
+	display: flex;
+}
+.nav li{
+	margin-left: 40px;
+	
+}
+.nav li a{
+	text-decoration: none;
+	color: #01031E;
+	font-weight: bold;
+}
+.nav li a:hover{
+	opacity: 0.7;
+}
+/*nav*/
+.banner {
+/*	background: #CC6869;*/
+}
+
+.btn{
+	padding: 15px 40px;
+	text-decoration: none;
+}
+.content-banner{
+	margin-bottom: 25px;
+}
+.content-banner h1{
+	font-size: 44px;
+}
+.line{
+	width: 50px;
+	height: 3px;
+	background: #BFBFBF;
+	margin: 28px 0;
+}
+.content-banner p{
+	font-size: 20px;
+	margin-bottom: 54px;
+}
+.btn-primary{
+	background: #6c63ff;
+	border: 1.5px solid #353434;
+	color: white;
+}
+.btn-outline{
+/*	background: #6c63ff;*/
+	border: 1.5px solid #353434;
+	color: #242424;
+}
+.banner img{
+	width: 510px;
+	margin-left: 70px;
+}
+/*banner*/
+.how-it-works{
+	padding: 100px 0;
+}
+.title{
+	text-align: center;
+}
+.title h1{
+	font-size: 44px;
+}
+.title p{
+	font-size: 20px;
+}
+.title .line{
+	margin: 28px auto;
+}
+/*title*/
+.row{
+	display: flex;
+	justify-content: center;
+}
+.app h1{
+	font-size: 27px;
+}
+.app p{
+	font-size: 14px;
+	margin-top: 10px;
+}
+.app{
+	text-align: center;
+}
+.app img{
+	width: 207px;
+}
+.align-top{
+	margin-top: 72px;
+}
+.img{
+	padding-bottom: 20px;
+}
+/*1*/
+.banner-2{
+	width: 100%;
+	height: 450px;
+	background: #f5f5f5;
+/*	padding-top: 200px;*/
+}
+.image-1 img{
+	width: 500px;
+}
+.content{
+	padding-top: 40px;
+	padding-left: 50px;
+}
+.content h1{
+	font-size: 40px;
+	font-weight: bold;
+}
+.content p{
+	font-size: 20px;
+	padding-bottom: 10px;
+}
+.content a{
+	font-size: 22px;
+	text-decoration: none;
+	color: #6C63FF;
+}
+.content a:hover{
+	opacity: 0.7;
+}
+.section{
+	padding-left: 100px;
+/*	align-items: flex-end;*/
+}
+
+
+
+.footer{
+	width: 100%;
+/*	height: 150px;*/
+/*	background: #E1282B;*/
+}
+.copyright{
+	padding-top: 36px;
+	padding-bottom: 10px;
+}
+.content-copy{
+/*	display: flex;*/
+/*	align-items: center;*/
+}
+.image-2 img{
+	padding-top: 10px;
+	width: 200px;
+	margin-left: 50px;
+}
+.content-copy p{
+	font-size: 14px;
+	opacity: 0.7;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,117 @@
+@charset "utf-8";
+/* CSS Document */
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+.container{
+	width: 1170px;
+	margin: 0 auto;
+}
+.row{
+	display: flex;
+	flex-wrap: wrap;
+}
+.align-bot{
+	align-items: flex-end;
+}
+.col-1{
+	width: 8.33%;
+}
+.col-2{
+	width: 16.66%;
+}
+.col-3{
+	width: 25%;
+}
+.col-4{
+	width: 33.33%;
+}
+.col-5{
+	width: 41.66%
+}
+.col-6{
+	width: 50%;
+}
+.col-7{
+	width: 58.33%;
+}
+.col-8{
+	width: 66.66%;
+}
+.col-9{
+	width: 75%;
+}
+.col-10{
+	width: 83.33%;
+}
+.col-11{
+	width: 91.66%;
+}
+.col-12{
+	width: 100%;
+}
+/*padding*/
+.p-1{
+	padding: 4px;
+}
+.px-1{
+	padding: 0 4px;
+}
+.py-1{
+	padding:  4px 0;
+}
+.pl-1{
+	padding-left:  4px;
+}
+.pr-1{
+	padding-right: 4px;
+}
+.pb-1{
+	padding-bottom: 4px;
+}
+.pt-1{
+	padding-top: 4px;
+}
+.px-3{
+	padding: 0 12px;
+}
+.py-3{
+	padding: 12px 0;
+}
+.py-6{
+	padding: 24px 0;
+}
+.pb-18{
+	padding-bottom: 72px;
+}
+.mx-auto{
+	margin: 0 auto;
+}
+.py-18{
+	padding: 72px 0;
+}
+.mr-5{
+	margin-right: 20px;
+}
+.mt-18{
+	margin-top: 7px;
+}
+.my-7{
+	margin: 28px 0;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
